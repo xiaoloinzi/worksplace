@@ -1,0 +1,61 @@
+1）动态加载的问题
+ts = unittest.TestSuite()
+导入测试用例t1 = testLoader.loadTestsFromName('Download.APPCenter.test_download_music')
+ts.addTest(t1)
+unittest.TextTestRunner(verbosity=2).run(ts)
+
+习题：在start中，导入scripts目录下wode 的test_wode01 及test_wode02，并且执行
+
+习题：完成category.cfg文件的配置
+
+习题3：动态导入测试用例，实现思路：
+
+习题3：动态导入测试用例，实现思路：
+def loadTestsScripts（）
+1、从category.cfg中读取文件，获得用例信息。
+categoryList = []
+return categoryList
+2、动态的得到所有模块。
+why？
+为何不可以直接import
+3、判断categoryList
+1）*：导入所有模块
+2）moduleName，则loadTestsFromModule
+3）moduleName.TCname,则loadTestsFromName
+4、return testSuite
+
+格式：[['Wode','test_wode01'],['Wode']]
+习题：实现生成categoryList
+
+习题：打印出moduleList
+
+习题：
+2）moduleName，则loadTestsFromModule
+实现此部分的逻辑，即只导入moduleName
+
+3）moduleName.TCname,则loadTestsFromName
+实现此部分逻辑，既有modulename也有TCname
+
+习题：Wode 的所有用例，加上Download的一个用例
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

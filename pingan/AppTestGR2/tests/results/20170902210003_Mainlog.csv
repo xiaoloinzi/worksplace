@@ -1,0 +1,13 @@
+Time,Level,Logger Name,Message
+2017-09-02 21:00:05,486","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"deviceName": "QVM0215B25001650", "unicodeKeyboard": true, "appWaitActivity": ".MarketActivity", "noReset": true, "resetKeyboard": true, "platformVersion": "7.0", "appPackage": "com.huawei.appmarket", "platformName": "Android", "appActivity": ".MainActivity"}}
+2017-09-02 21:00:34,239","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 21:00:37,240","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/612fb072-915c-4b7c-9740-cd6437d2ad82/element {"using": "xpath", "sessionId": "612fb072-915c-4b7c-9740-cd6437d2ad82", "value": "//android.widget.TextView[@text=\"\u6211\u7684\"]"}
+2017-09-02 21:00:37,607","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 21:00:37,608","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/612fb072-915c-4b7c-9740-cd6437d2ad82/element/1/click {"sessionId": "612fb072-915c-4b7c-9740-cd6437d2ad82", "id": "1"}
+2017-09-02 21:00:37,888","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 21:00:40,888","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/612fb072-915c-4b7c-9740-cd6437d2ad82/element {"using": "xpath", "sessionId": "612fb072-915c-4b7c-9740-cd6437d2ad82", "value": "//android.widget.GridView/android.widget.RelativeLayout[@index=3]"}
+2017-09-02 21:00:41,055","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 21:00:41,055","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/612fb072-915c-4b7c-9740-cd6437d2ad82/element/2/click {"sessionId": "612fb072-915c-4b7c-9740-cd6437d2ad82", "id": "2"}
+2017-09-02 21:00:41,424","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 21:00:45,426","DEBUG","selenium.webdriver.remote.remote_connection","DELETE http://127.0.0.1:4723/wd/hub/session/612fb072-915c-4b7c-9740-cd6437d2ad82 {"sessionId": "612fb072-915c-4b7c-9740-cd6437d2ad82"}
+2017-09-02 21:00:48,621","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request

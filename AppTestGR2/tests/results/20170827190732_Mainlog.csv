@@ -1,0 +1,19 @@
+2017-08-27 19:07:32 | DEBUG |root| test_wode0----kaishi zgxing
+2017-08-27 19:07:32 | DEBUG |selenium.webdriver.remote.remote_connection| POST http://127.0.0.1:4723/wd/hub/session/88e01cf0-a1b3-4113-8476-d43d899f6717/element {"using": "xpath", "sessionId": "88e01cf0-a1b3-4113-8476-d43d899f6717", "value": "//android.widget.TextView[@text=\"\u6211\u7684\"]"}
+2017-08-27 19:07:32 | DEBUG |selenium.webdriver.remote.remote_connection| Finished Request
+2017-08-27 19:07:34 | DEBUG |selenium.webdriver.remote.remote_connection| POST http://127.0.0.1:4723/wd/hub/session/88e01cf0-a1b3-4113-8476-d43d899f6717/element {"using": "xpath", "sessionId": "88e01cf0-a1b3-4113-8476-d43d899f6717", "value": "//android.widget.TextView[@text=\"\u6211\u7684\"]"}
+2017-08-27 19:07:36 | DEBUG |selenium.webdriver.remote.remote_connection| Finished Request
+2017-08-27 19:07:36 | DEBUG |selenium.webdriver.remote.remote_connection| POST http://127.0.0.1:4723/wd/hub/session/88e01cf0-a1b3-4113-8476-d43d899f6717/element/1/click {"sessionId": "88e01cf0-a1b3-4113-8476-d43d899f6717", "id": "1"}
+2017-08-27 19:07:36 | DEBUG |selenium.webdriver.remote.remote_connection| Finished Request
+2017-08-27 19:07:36 | DEBUG |selenium.webdriver.remote.remote_connection| POST http://127.0.0.1:4723/wd/hub/session/88e01cf0-a1b3-4113-8476-d43d899f6717/element {"using": "xpath", "sessionId": "88e01cf0-a1b3-4113-8476-d43d899f6717", "value": "//android.widget.TextView[@text=\"\u8bbe\u7f6e\"]"}
+2017-08-27 19:07:38 | DEBUG |selenium.webdriver.remote.remote_connection| Finished Request
+2017-08-27 19:07:38 | DEBUG |selenium.webdriver.remote.remote_connection| POST http://127.0.0.1:4723/wd/hub/session/88e01cf0-a1b3-4113-8476-d43d899f6717/element/2/click {"sessionId": "88e01cf0-a1b3-4113-8476-d43d899f6717", "id": "2"}
+2017-08-27 19:07:41 | DEBUG |selenium.webdriver.remote.remote_connection| Finished Request
+2017-08-27 19:07:41 | DEBUG |selenium.webdriver.remote.remote_connection| POST http://127.0.0.1:4723/wd/hub/session/88e01cf0-a1b3-4113-8476-d43d899f6717/element {"using": "xpath", "sessionId": "88e01cf0-a1b3-4113-8476-d43d899f6717", "value": "//android.widget.RelativeLayout[@index=8]/android.widget.Switch"}
+2017-08-27 19:07:41 | DEBUG |selenium.webdriver.remote.remote_connection| Finished Request
+2017-08-27 19:07:41 | DEBUG |selenium.webdriver.remote.remote_connection| GET http://127.0.0.1:4723/wd/hub/session/88e01cf0-a1b3-4113-8476-d43d899f6717/element/3/attribute/checked {"sessionId": "88e01cf0-a1b3-4113-8476-d43d899f6717", "name": "checked", "id": "3"}
+2017-08-27 19:07:41 | DEBUG |selenium.webdriver.remote.remote_connection| Finished Request
+2017-08-27 19:07:41 | DEBUG |selenium.webdriver.remote.remote_connection| GET http://127.0.0.1:4723/wd/hub/session/88e01cf0-a1b3-4113-8476-d43d899f6717/element/3/attribute/checked {"sessionId": "88e01cf0-a1b3-4113-8476-d43d899f6717", "name": "checked", "id": "3"}
+2017-08-27 19:07:41 | DEBUG |selenium.webdriver.remote.remote_connection| Finished Request
+2017-08-27 19:07:44 | DEBUG |selenium.webdriver.remote.remote_connection| DELETE http://127.0.0.1:4723/wd/hub/session/88e01cf0-a1b3-4113-8476-d43d899f6717 {"sessionId": "88e01cf0-a1b3-4113-8476-d43d899f6717"}
+2017-08-27 19:07:46 | DEBUG |selenium.webdriver.remote.remote_connection| Finished Request

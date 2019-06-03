@@ -1,0 +1,39 @@
+1493630918279	geckodriver	INFO	Listening on 127.0.0.1:20760
+1493630920288	mozprofile::profile	INFO	Using profile path C:\Users\asus\AppData\Local\Temp\rust_mozprofile.nsKpXbmhMsir
+1493630920293	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493630920307	geckodriver::marionette	INFO	Connecting to Marionette on localhost:20770
+1493630923023	Marionette	INFO	Listening on port 20770
+1493630924438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/deployment-checker@mozilla.org.xpi!/bootstrap.js, line 67: TypeError: evt.target.channel.securityInfo is null
+1493630974525	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+BORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+
+2
+[Child 16400] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+e=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+rTransactionChild]: "constructor for actor failed". abort()ing as a result.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 292

@@ -1,0 +1,17 @@
+Time,Level,Logger Name,Message
+2017-09-03 09:50:07,880","DEBUG","root","test_wode0----kaishi zgxing
+2017-09-03 09:50:10,880","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/139917f7-f41f-41b5-8675-9bd6a175fe8a/element {"using": "xpath", "sessionId": "139917f7-f41f-41b5-8675-9bd6a175fe8a", "value": "//android.widget.TextView[@text=\"\u6211\u7684\"]"}
+2017-09-03 09:50:29,733","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:50:29,733","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/139917f7-f41f-41b5-8675-9bd6a175fe8a/element/1/click {"sessionId": "139917f7-f41f-41b5-8675-9bd6a175fe8a", "id": "1"}
+2017-09-03 09:50:32,461","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:50:34,461","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/139917f7-f41f-41b5-8675-9bd6a175fe8a/element {"using": "xpath", "sessionId": "139917f7-f41f-41b5-8675-9bd6a175fe8a", "value": "//android.widget.TextView[@text=\"\u8bbe\u7f6e\"]"}
+2017-09-03 09:50:34,921","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:50:34,921","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/139917f7-f41f-41b5-8675-9bd6a175fe8a/element/2/click {"sessionId": "139917f7-f41f-41b5-8675-9bd6a175fe8a", "id": "2"}
+2017-09-03 09:50:35,650","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:50:36,650","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/139917f7-f41f-41b5-8675-9bd6a175fe8a/element {"using": "xpath", "sessionId": "139917f7-f41f-41b5-8675-9bd6a175fe8a", "value": "//android.widget.RelativeLayout[@index=7]/android.widget.Switch"}
+2017-09-03 09:50:36,921","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:50:36,921","DEBUG","root","test_wode02----kaishi zgxing
+2017-09-03 09:50:39,921","DEBUG","selenium.webdriver.remote.remote_connection","GET http://127.0.0.1:4723/wd/hub/session/139917f7-f41f-41b5-8675-9bd6a175fe8a/screenshot {"sessionId": "139917f7-f41f-41b5-8675-9bd6a175fe8a"}
+2017-09-03 09:50:42,427","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:50:45,430","DEBUG","selenium.webdriver.remote.remote_connection","DELETE http://127.0.0.1:4723/wd/hub/session/139917f7-f41f-41b5-8675-9bd6a175fe8a {"sessionId": "139917f7-f41f-41b5-8675-9bd6a175fe8a"}
+2017-09-03 09:50:47,398","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request

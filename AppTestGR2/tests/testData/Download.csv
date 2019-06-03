@@ -1,0 +1,4 @@
+TC_ID,TC_Name,TC_Input,Expected,Operation_Steps,Explain,Priority,Testing_Type
+tc001,test_download_music,remover_app.appPkgName=com.ezhoop.music|download_app.appName=music|app_is_exist.appPkgName=com.ezhoop.music,xxx,xxx,xxx,xxx,xxx
+tc002,test_download_notexist1,download_app_notexist.appName=#()*,xxx,xxx,xxx,xxx,xxx
+tc003,test_download_notexist2,download_app_notexist.appName=sfskdjfksdjfksjdkfjsdk2334kkdsfjhsjdhfjh3344,xxx,xxx,xxx,xxx,xxx

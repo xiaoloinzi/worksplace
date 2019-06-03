@@ -1,0 +1,63 @@
+最简单的执行逻辑unittest.main()
+1、可控制性太弱
+2、定制化需求无法满足
+1）分层分级执行
+2）执行特定用例
+
+TestSuite:
+adb命令：
+adb shell dumpsys activity | findstr “mFocusedActivity” 获取手机当前页面的
+activity--必须要启动app，然后如果不行，去掉双引号
+
+adb shell dumpsys meminfo <pid > 获取某个应用的内存消耗信息
+--分析内存
+
+adb shell ps | findstr com.huawei.appmarket
+---获取pid（第二列的值）
+1、先运行
+adb shell logcat | findstr "Displayed"
+2、启动app
+查看到的信息如下：第一个为启动Activity，第二个为主Activity
+I/ActivityManager(  552): Displayed com.huawei.appmarket/.MainActivity: +315ms
+I/ActivityManager(  552): Displayed com.huawei.appmarket/.MarketActivity: +269ms
+
+习题：大家启动一个app，写出这三个值：
+            'appPackage': 'com.huawei.appmarket',--com.example.androidtest20170723.androidtest20170723
+            'appActivity': '.MainActivity',--.MainActivity
+            'appWaitActivity': '.MarketActivity',
+
+
+ 'appPackage':‘com.example.androidtest20170723.androidtest20170723’，
+ 'appActivity': '.MainActivity'，
+
+
+有可能出现Unable to connect to adb. Check if adb is installed correctly，解决方法是：
+打开uiautomatorviewer.bat，找到uiautomatorviewer.bat文件最后一行：
+call "%java_exe%" "-Djava.ext.dirs=%javaextdirs%" "-Dcom.android.uiautomator.bindir=%prog_dir%" -jar %jarpath% %*
+  ● 1
+  ● 1
+将其中的binddir=%prog_dir%修改为SDK的platform-tools所在路径。
+修改后的最后一行为：
+call "%java_exe%" "-Djava.ext.dirs=%javaextdirs%" "-Dcom.android.uiautomator.bindir=C:\Users\qq\AppData\Local\Android\Sdk\platform-tools" -jar %jarpath% %*
+再次启动工具uiautomatorviewer
+
+11、关于使用genymotion之后，应用闪退的问题：
+安装 Genymotion-ARM-Translation 这个就可以了！
+
+
+ # Swipe（int start x,int start y,int end x,int y,duration)
+        # int start x－开始滑动的x坐标，
+    #   int start y －开始滑动的y坐标。
+    #    int end x －结束点x坐标，
+    #    int end y －结束点y坐标。
+    #    duration 滑动时间（默认5毫秒）；
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+1491650934922	geckodriver	INFO	Listening on 127.0.0.1:23403
+1491650936708	mozprofile::profile	INFO	Using profile path C:\Users\asus\AppData\Local\Temp\rust_mozprofile.dET5cYW1JqWK
+1491650936711	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1491650936771	geckodriver::marionette	INFO	Connecting to Marionette on localhost:23410
+1491650944790	Marionette	INFO	Listening on port 23410
+1491650947173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cloudit.net/, line 515: ReferenceError: _gaq is not defined

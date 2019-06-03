@@ -1,0 +1,71 @@
+递归的演练
+1、递归退出的条件
+2、调用递归函数的时机
+
+汉诺塔问题
+前提条件：大的盘子必须放在下面
+n个盘子从a移动到b
+1)n-1个盘子从a移动到b
+2）把最低下的盘子从a移动到c
+3）n-1个盘子从b移动到c
+
+func(n,a,b,c):
+    if n == 1:
+        print a > c
+    func(n-1,a,c,b):
+    func(n-1,a,b,c):
+    func(n-1,b,a,c):
+
+
+
+
+习题：假定n = 3，按照上述的算法，大家列出移动顺序
+
+n = 3
+func(3,a,b,c)
+    func(2,a,c,b)
+        func(1,a,b,c)->a>c
+        func(1,a,c,b)->a>b
+        func(1,c,a,b)->c>b
+    func(1,a,b,c)->a>c
+    func(2,b,a,c)
+        func(1,b,a,c)->b>c
+        func(1,b,c,a)->b>a
+        func(1,c,b,a)->c>a
+    func(1,a,b,c)->a>c
+
+全排列算法
+[12,14]
+[12,14] [14,12]
+ n = 3
+
+ 习题：写出[1,2,3]的全排列
+ 123 132 213 231 312 321
+ p = {r1,r2.....rn}
+ pn = {r1,r2,....r(n-1)}
+ perm(p)表示针对集合的全排列
+ perm(p) = perm(p1)+ perm(p2)+....+ perm(pn)
+ perm(p) = r1perm(p1)+r2 perm(p2)+....+rn perm(pn)
+
+ 递归的演练
+ 1、递归退出的条件
+ 2、调用递归函数的时机
+ def perm(listVar):
+    if listVar == []:
+        return [listVar]
+
+    retList = []
+    for i in range(len(listVar)):
+        resList = listVar[:i]+listVar[i+1:]
+        for x in perm(resList):
+            resList.append(listVar[i:i+1]+x)
+    return reList
+
+习题：当n = 5时，全排列的个数是多少
+
+
+
+
+
+
+

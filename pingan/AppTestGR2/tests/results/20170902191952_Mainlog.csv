@@ -1,0 +1,37 @@
+Time,Level,Logger Name,Message
+2017-09-02 19:19:54,256","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"deviceName": "QVM0215B25001650", "unicodeKeyboard": true, "appWaitActivity": ".MarketActivity", "noReset": true, "resetKeyboard": true, "platformVersion": "7.0", "appPackage": "com.huawei.appmarket", "platformName": "Android", "appActivity": ".MainActivity"}}
+2017-09-02 19:20:19,375","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:22,418","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b/element {"using": "xpath", "sessionId": "71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b", "value": "//android.widget.TextView[@text=\"\u6211\u7684\"]"}
+2017-09-02 19:20:22,756","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:22,756","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b/element/1/click {"sessionId": "71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b", "id": "1"}
+2017-09-02 19:20:23,061","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:26,062","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b/element {"using": "xpath", "sessionId": "71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b", "value": "//android.widget.GridView/android.widget.RelativeLayout[@index=3]"}
+2017-09-02 19:20:26,174","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:26,174","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b/element/2/click {"sessionId": "71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b", "id": "2"}
+2017-09-02 19:20:26,516","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:27,517","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b/element {"using": "xpath", "sessionId": "71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b", "value": "//android.widget.TextView[@text=\"hiapps\"]"}
+2017-09-02 19:20:27,607","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:27,607","DEBUG","selenium.webdriver.remote.remote_connection","GET http://127.0.0.1:4723/wd/hub/session/71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b/element/3/text {"sessionId": "71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b", "id": "3"}
+2017-09-02 19:20:27,632","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:27,634","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b/element {"using": "xpath", "sessionId": "71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b", "value": "//android.widget.TextView[@text=\"QQ 4008308300\"]"}
+2017-09-02 19:20:27,707","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:27,707","DEBUG","selenium.webdriver.remote.remote_connection","GET http://127.0.0.1:4723/wd/hub/session/71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b/element/4/text {"sessionId": "71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b", "id": "4"}
+2017-09-02 19:20:27,724","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:30,726","DEBUG","selenium.webdriver.remote.remote_connection","DELETE http://127.0.0.1:4723/wd/hub/session/71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b {"sessionId": "71c9bd6e-1f2d-48e8-a803-b319fb5a6b3b"}
+2017-09-02 19:20:33,658","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:34,661","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"deviceName": "QVM0215B25001650", "unicodeKeyboard": true, "appWaitActivity": ".MarketActivity", "noReset": true, "resetKeyboard": true, "platformVersion": "7.0", "appPackage": "com.huawei.appmarket", "platformName": "Android", "appActivity": ".MainActivity"}}
+2017-09-02 19:20:45,931","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:48,933","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/f53628d5-3c88-4e62-a9ff-ca1136e95ac1/element {"using": "xpath", "sessionId": "f53628d5-3c88-4e62-a9ff-ca1136e95ac1", "value": "//android.widget.TextView[@text=\"\u6211\u7684\"]"}
+2017-09-02 19:20:49,150","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:49,150","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/f53628d5-3c88-4e62-a9ff-ca1136e95ac1/element/1/click {"sessionId": "f53628d5-3c88-4e62-a9ff-ca1136e95ac1", "id": "1"}
+2017-09-02 19:20:49,381","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:51,381","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/f53628d5-3c88-4e62-a9ff-ca1136e95ac1/element {"using": "xpath", "sessionId": "f53628d5-3c88-4e62-a9ff-ca1136e95ac1", "value": "//android.widget.TextView[@text=\"\u8bbe\u7f6e\"]"}
+2017-09-02 19:20:51,473","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:51,473","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/f53628d5-3c88-4e62-a9ff-ca1136e95ac1/element/2/click {"sessionId": "f53628d5-3c88-4e62-a9ff-ca1136e95ac1", "id": "2"}
+2017-09-02 19:20:51,832","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:52,832","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/f53628d5-3c88-4e62-a9ff-ca1136e95ac1/element {"using": "xpath", "sessionId": "f53628d5-3c88-4e62-a9ff-ca1136e95ac1", "value": "//android.widget.RelativeLayout[@index=9]/android.widget.Switch"}
+2017-09-02 19:20:52,913","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:52,914","DEBUG","selenium.webdriver.remote.remote_connection","GET http://127.0.0.1:4723/wd/hub/session/f53628d5-3c88-4e62-a9ff-ca1136e95ac1/screenshot {"sessionId": "f53628d5-3c88-4e62-a9ff-ca1136e95ac1"}
+2017-09-02 19:20:56,650","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-02 19:20:59,668","DEBUG","selenium.webdriver.remote.remote_connection","DELETE http://127.0.0.1:4723/wd/hub/session/f53628d5-3c88-4e62-a9ff-ca1136e95ac1 {"sessionId": "f53628d5-3c88-4e62-a9ff-ca1136e95ac1"}
+2017-09-02 19:21:02,615","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request

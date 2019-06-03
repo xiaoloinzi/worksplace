@@ -1,0 +1,15 @@
+2017-08-27 19:04:52 | DEBUG |root| test_wode01----kaishi zgxing
+2017-08-27 19:04:52 | DEBUG |root| test_wode01----jieshu zgxing
+2017-08-27 19:04:55 | DEBUG |selenium.webdriver.remote.remote_connection| GET http://127.0.0.1:4723/wd/hub/session/ed8d37ad-5fc6-4d79-8a81-5fa8a35aa9e4/screenshot {"sessionId": "ed8d37ad-5fc6-4d79-8a81-5fa8a35aa9e4"}
+2017-08-27 19:04:58 | DEBUG |selenium.webdriver.remote.remote_connection| Finished Request
+2017-08-27 19:05:01 | DEBUG |selenium.webdriver.remote.remote_connection| DELETE http://127.0.0.1:4723/wd/hub/session/ed8d37ad-5fc6-4d79-8a81-5fa8a35aa9e4 {"sessionId": "ed8d37ad-5fc6-4d79-8a81-5fa8a35aa9e4"}
+2017-08-27 19:05:03 | DEBUG |selenium.webdriver.remote.remote_connection| Finished Request
+2017-08-27 19:05:05 | DEBUG |selenium.webdriver.remote.remote_connection| POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"alwaysMatch": {"deviceName": "192.168.146.101:5555", "unicodeKeyboard": true, "appWaitActivity": ".MarketActivity", "noReset": true, "resetKeyboard": true, "platformVersion": "4.4.4", "appPackage": "com.huawei.appmarket", "platformName": "Android", "appActivity": ".MainActivity"}, "firstMatch": []}, "desiredCapabilities": {"deviceName": "192.168.146.101:5555", "unicodeKeyboard": true, "appWaitActivity": ".MarketActivity", "noReset": true, "resetKeyboard": true, "platformVersion": "4.4.4", "appPackage": "com.huawei.appmarket", "platformName": "Android", "appActivity": ".MainActivity"}}
+2017-08-27 19:05:17 | DEBUG |selenium.webdriver.remote.remote_connection| Finished Request
+2017-08-27 19:05:17 | INFO  |root| Time,Level,Logger Name,Message
+2017-08-27 19:05:17 | DEBUG |root| test_wode0----kaishi zgxing
+2017-08-27 19:05:17 | DEBUG |root| test_wode02----kaishi zgxing
+2017-08-27 19:05:20 | DEBUG |selenium.webdriver.remote.remote_connection| GET http://127.0.0.1:4723/wd/hub/session/ca17df58-c8ea-451c-8729-1f30497c0fb3/screenshot {"sessionId": "ca17df58-c8ea-451c-8729-1f30497c0fb3"}
+2017-08-27 19:05:23 | DEBUG |selenium.webdriver.remote.remote_connection| Finished Request
+2017-08-27 19:05:26 | DEBUG |selenium.webdriver.remote.remote_connection| DELETE http://127.0.0.1:4723/wd/hub/session/ca17df58-c8ea-451c-8729-1f30497c0fb3 {"sessionId": "ca17df58-c8ea-451c-8729-1f30497c0fb3"}
+2017-08-27 19:05:28 | DEBUG |selenium.webdriver.remote.remote_connection| Finished Request

@@ -1,0 +1,5 @@
+TC_ID,TC_Name,TC_Input,Expected,Operation_Steps,Explain,Priority,Testing_Type
+tc001,test_wode01,check_msg.xpathList=['//android.widget.TextView[@text="hiapps"]','//android.widget.TextView[@text="QQ 4008308300"]']|check_msg.checkedTextList=['hiapps','QQ 4008308300'],xxx,xxx,xxx,xxx,xxx
+tc002,test_wode02,open_switch.xpath='//android.widget.RelativeLayout[@index=9]/android.widget.Switch',xxx,xxx,xxx,xxx,xxx
+
+

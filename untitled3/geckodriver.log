@@ -1,0 +1,13 @@
+1493330305242	geckodriver	INFO	Listening on 127.0.0.1:15116
+1493330307275	mozprofile::profile	INFO	Using profile path C:\Users\asus\AppData\Local\Temp\rust_mozprofile.8qnXgT1bL7xo
+1493330307281	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493330307297	geckodriver::marionette	INFO	Connecting to Marionette on localhost:15122
+1493330309840	Marionette	INFO	Listening on port 15122
+1493330311270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493330413056	geckodriver	INFO	Listening on 127.0.0.1:32193
+1493330415071	mozprofile::profile	INFO	Using profile path C:\Users\asus\AppData\Local\Temp\rust_mozprofile.5aj1zmeJWbXt
+1493330415081	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493330415095	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32199
+1493330417634	Marionette	INFO	Listening on port 32199
+1493330418897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493330529825	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error

@@ -1,0 +1,20 @@
+Time,Level,Logger Name,Message
+2017-09-04 00:31:05,503","DEBUG","root","test_getPath----start!!!!!!!
+2017-09-04 00:31:06,506","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d/element {"using": "xpath", "sessionId": "49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d", "value": "//android.widget.TextView[@text=\"\u7ba1\u7406\"]"}
+2017-09-04 00:31:22,418","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-04 00:31:22,418","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d/element/1/click {"sessionId": "49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d", "id": "1"}
+2017-09-04 00:31:24,806","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-04 00:31:24,806","DEBUG","selenium.webdriver.remote.remote_connection","GET http://127.0.0.1:4723/wd/hub/session/49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d/appium/device/current_activity {"sessionId": "49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d"}
+2017-09-04 00:31:24,898","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-04 00:31:25,900","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d/element {"using": "xpath", "sessionId": "49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d", "value": "//android.widget.TextView[@text=\"\u6392\u884c\"]"}
+2017-09-04 00:31:26,135","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-04 00:31:26,135","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d/element/2/click {"sessionId": "49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d", "id": "2"}
+2017-09-04 00:31:27,151","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-04 00:31:27,151","DEBUG","selenium.webdriver.remote.remote_connection","GET http://127.0.0.1:4723/wd/hub/session/49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d/appium/device/current_activity {"sessionId": "49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d"}
+2017-09-04 00:31:27,242","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-04 00:31:30,243","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d/appium/device/press_keycode {"sessionId": "49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d", "keycode": "4"}
+2017-09-04 00:31:30,279","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-04 00:31:30,279","DEBUG","selenium.webdriver.remote.remote_connection","GET http://127.0.0.1:4723/wd/hub/session/49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d/appium/device/current_activity {"sessionId": "49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d"}
+2017-09-04 00:31:30,378","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-04 00:31:30,378","DEBUG","selenium.webdriver.remote.remote_connection","DELETE http://127.0.0.1:4723/wd/hub/session/49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d {"sessionId": "49b02a10-1e7d-488d-bf2f-a9d06a7a5f3d"}
+2017-09-04 00:31:32,506","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request

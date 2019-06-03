@@ -1,0 +1,4 @@
+TC_ID,TC_Name,TC_Input,Expected,Operation_Steps,Explain,Priority,Testing_Type
+tc001,test_wode01,check_msg.xpath=//android.widget.TextView[@text="hiapps"]|check_msg.text=hiapps,xxx,xxx,xxx,xxx,xxx
+tc002,test_wode02,open_switch.xpath=//android.widget.RelativeLayout[@index=8]/android.widget.Switch|,xxx,xxx,xxx,xxx,xxx
+tc003,test_download_notexist2,download_app_notexist.appName='sfskdjfksdjfksjdkfjsdk2334kkdsfjhsjdhfjh3344',xxx,xxx,xxx,xxx,xxx

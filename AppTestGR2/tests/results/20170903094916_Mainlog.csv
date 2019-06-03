@@ -1,0 +1,27 @@
+Time,Level,Logger Name,Message
+2017-09-03 09:49:16,197","DEBUG","root","test_wode0----kaishi zgxing
+2017-09-03 09:49:19,197","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/f9594089-0fcd-4d1f-8d34-0f5af21e6222/element {"using": "xpath", "sessionId": "f9594089-0fcd-4d1f-8d34-0f5af21e6222", "value": "//android.widget.TextView[@text=\"\u6211\u7684\"]"}
+2017-09-03 09:49:19,526","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:49:21,526","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/f9594089-0fcd-4d1f-8d34-0f5af21e6222/element {"using": "xpath", "sessionId": "f9594089-0fcd-4d1f-8d34-0f5af21e6222", "value": "//android.widget.TextView[@text=\"\u6211\u7684\"]"}
+2017-09-03 09:49:21,638","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:49:23,640","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/f9594089-0fcd-4d1f-8d34-0f5af21e6222/element {"using": "xpath", "sessionId": "f9594089-0fcd-4d1f-8d34-0f5af21e6222", "value": "//android.widget.TextView[@text=\"\u6211\u7684\"]"}
+2017-09-03 09:49:23,767","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:49:25,769","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/f9594089-0fcd-4d1f-8d34-0f5af21e6222/element {"using": "xpath", "sessionId": "f9594089-0fcd-4d1f-8d34-0f5af21e6222", "value": "//android.widget.TextView[@text=\"\u6211\u7684\"]"}
+2017-09-03 09:49:25,884","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:49:27,884","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/f9594089-0fcd-4d1f-8d34-0f5af21e6222/element {"using": "xpath", "sessionId": "f9594089-0fcd-4d1f-8d34-0f5af21e6222", "value": "//android.widget.TextView[@text=\"\u6211\u7684\"]"}
+2017-09-03 09:49:27,950","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:49:29,951","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/f9594089-0fcd-4d1f-8d34-0f5af21e6222/element {"using": "xpath", "sessionId": "f9594089-0fcd-4d1f-8d34-0f5af21e6222", "value": "//android.widget.TextView[@text=\"\u6211\u7684\"]"}
+2017-09-03 09:49:30,042","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:49:32,042","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/f9594089-0fcd-4d1f-8d34-0f5af21e6222/element {"using": "xpath", "sessionId": "f9594089-0fcd-4d1f-8d34-0f5af21e6222", "value": "//android.widget.TextView[@text=\"\u6211\u7684\"]"}
+2017-09-03 09:49:32,141","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:49:34,141","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/f9594089-0fcd-4d1f-8d34-0f5af21e6222/element {"using": "xpath", "sessionId": "f9594089-0fcd-4d1f-8d34-0f5af21e6222", "value": "//android.widget.TextView[@text=\"\u6211\u7684\"]"}
+2017-09-03 09:49:34,219","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:49:36,220","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/f9594089-0fcd-4d1f-8d34-0f5af21e6222/element {"using": "xpath", "sessionId": "f9594089-0fcd-4d1f-8d34-0f5af21e6222", "value": "//android.widget.TextView[@text=\"\u6211\u7684\"]"}
+2017-09-03 09:49:36,401","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:49:38,403","DEBUG","selenium.webdriver.remote.remote_connection","POST http://127.0.0.1:4723/wd/hub/session/f9594089-0fcd-4d1f-8d34-0f5af21e6222/element {"using": "xpath", "sessionId": "f9594089-0fcd-4d1f-8d34-0f5af21e6222", "value": "//android.widget.TextView[@text=\"\u6211\u7684\"]"}
+2017-09-03 09:49:38,474","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:49:40,474","DEBUG","root","test_wode02----kaishi zgxing
+2017-09-03 09:49:43,476","DEBUG","selenium.webdriver.remote.remote_connection","GET http://127.0.0.1:4723/wd/hub/session/f9594089-0fcd-4d1f-8d34-0f5af21e6222/screenshot {"sessionId": "f9594089-0fcd-4d1f-8d34-0f5af21e6222"}
+2017-09-03 09:49:45,842","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request
+2017-09-03 09:49:48,845","DEBUG","selenium.webdriver.remote.remote_connection","DELETE http://127.0.0.1:4723/wd/hub/session/f9594089-0fcd-4d1f-8d34-0f5af21e6222 {"sessionId": "f9594089-0fcd-4d1f-8d34-0f5af21e6222"}
+2017-09-03 09:49:50,755","DEBUG","selenium.webdriver.remote.remote_connection","Finished Request

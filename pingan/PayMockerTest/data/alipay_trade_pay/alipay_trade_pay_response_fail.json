@@ -1,0 +1,9 @@
+{
+    "alipay_trade_pay_response": {
+        "code": "20001",
+        "msg": "ACQ.ACCESS_FORBIDDEN",
+        "sub_code": "aop.invalid-auth-token",
+        "sub_msg": "无效的访问令牌"
+    },
+    "sign": "ERITJKEIJKJHKKKKKKKHJEREEEEEEEEEEE"
+}

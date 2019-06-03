@@ -1,0 +1,104 @@
+1492813171886	geckodriver	INFO	Listening on 127.0.0.1:1127
+1492813173917	mozprofile::profile	INFO	Using profile path C:\Users\asus\AppData\Local\Temp\rust_mozprofile.oEfSVwGKAhrO
+1492813173926	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1492813173946	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1133
+1492813176669	Marionette	INFO	Listening on port 1133
+1492813177959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492813279721	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1492813307827	geckodriver	INFO	Listening on 127.0.0.1:1173
+1492813309642	mozprofile::profile	INFO	Using profile path C:\Users\asus\AppData\Local\Temp\rust_mozprofile.MowW7Qr9YpKT
+1492813309652	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1492813309671	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1181
+1492813312272	Marionette	INFO	Listening on port 1181
+1492813313580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492813467805	geckodriver	INFO	Listening on 127.0.0.1:26768
+1492813469626	mozprofile::profile	INFO	Using profile path C:\Users\asus\AppData\Local\Temp\rust_mozprofile.XTUDIcOr5TrZ
+1492813469628	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1492813469635	geckodriver::marionette	INFO	Connecting to Marionette on localhost:26774
+1492813472090	Marionette	INFO	Listening on port 26774
+1492813473295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492813580464	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1492813744008	geckodriver	INFO	Listening on 127.0.0.1:26952
+1492813746019	mozprofile::profile	INFO	Using profile path C:\Users\asus\AppData\Local\Temp\rust_mozprofile.ZPmLKchMMZQ7
+1492813746023	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1492813746032	geckodriver::marionette	INFO	Connecting to Marionette on localhost:26959
+1492813747656	Marionette	INFO	Listening on port 26959
+1492813748814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492813855178	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1492813949533	geckodriver	INFO	Listening on 127.0.0.1:27071
+1492813951383	mozprofile::profile	INFO	Using profile path C:\Users\asus\AppData\Local\Temp\rust_mozprofile.l9rC6hdsQHil
+1492813951390	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1492813951407	geckodriver::marionette	INFO	Connecting to Marionette on localhost:27077
+1492813954141	Marionette	INFO	Listening on port 27077
+1492813955176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492814047001	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 2720] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1492814368987	geckodriver	INFO	Listening on 127.0.0.1:26303
+1492814370892	mozprofile::profile	INFO	Using profile path C:\Users\asus\AppData\Local\Temp\rust_mozprofile.SP1OGDkeID8h
+1492814370898	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1492814370911	geckodriver::marionette	INFO	Connecting to Marionette on localhost:26310
+1492814373355	Marionette	INFO	Listening on port 26310
+1492814374795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492814481186	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1492814557903	geckodriver	INFO	Listening on 127.0.0.1:26441
+1492814559915	mozprofile::profile	INFO	Using profile path C:\Users\asus\AppData\Local\Temp\rust_mozprofile.jSsFFOwDPU6S
+1492814559923	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1492814559939	geckodriver::marionette	INFO	Connecting to Marionette on localhost:26447
+1492814562139	Marionette	INFO	Listening on port 26447
+1492814563314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492814669525	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1492814865139	geckodriver	INFO	Listening on 127.0.0.1:8004
+1492814867105	mozprofile::profile	INFO	Using profile path C:\Users\asus\AppData\Local\Temp\rust_mozprofile.YWf1TiejjVOh
+1492814867113	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1492814867130	geckodriver::marionette	INFO	Connecting to Marionette on localhost:8010
+1492814869572	Marionette	INFO	Listening on port 8010
+1492814870727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492814961040	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1492816193125	geckodriver	INFO	Listening on 127.0.0.1:1125
+1492816195140	mozprofile::profile	INFO	Using profile path C:\Users\asus\AppData\Local\Temp\rust_mozprofile.VTgIijz3MfHT
+1492816195147	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1492816195165	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1132
+1492816197318	Marionette	INFO	Listening on port 1132
+1492816198429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492816232618	geckodriver	INFO	Listening on 127.0.0.1:31808
+1492816234634	mozprofile::profile	INFO	Using profile path C:\Users\asus\AppData\Local\Temp\rust_mozprofile.Hec66QF0PZKL
+1492816234640	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1492816234657	geckodriver::marionette	INFO	Connecting to Marionette on localhost:31814
+1492816237021	Marionette	INFO	Listening on port 31814
+1492816238187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492816326128	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_f2fe497a641739e99a9d305cea87c481.js, line 1: Error: WebGL: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(056C0800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_f2fe497a641739e99a9d305cea87c481.js, line 1: Error: WebGL: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(05CD7800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+cdn.nosdn.127.net/m126_1.0.1/pp_index_dl_f2fe497a641739e99a9d305cea87c481.js, line 1: Error: WebGL: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0CA2E400)::ForceLoseContext
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x460043,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x460043,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+

@@ -1,0 +1,6 @@
+2017-08-27 19:05:17 | DEBUG |root| test_wode0----kaishi zgxing
+2017-08-27 19:05:17 | DEBUG |root| test_wode02----kaishi zgxing
+2017-08-27 19:05:20 | DEBUG |selenium.webdriver.remote.remote_connection| GET http://127.0.0.1:4723/wd/hub/session/ca17df58-c8ea-451c-8729-1f30497c0fb3/screenshot {"sessionId": "ca17df58-c8ea-451c-8729-1f30497c0fb3"}
+2017-08-27 19:05:23 | DEBUG |selenium.webdriver.remote.remote_connection| Finished Request
+2017-08-27 19:05:26 | DEBUG |selenium.webdriver.remote.remote_connection| DELETE http://127.0.0.1:4723/wd/hub/session/ca17df58-c8ea-451c-8729-1f30497c0fb3 {"sessionId": "ca17df58-c8ea-451c-8729-1f30497c0fb3"}
+2017-08-27 19:05:28 | DEBUG |selenium.webdriver.remote.remote_connection| Finished Request

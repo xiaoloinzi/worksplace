@@ -1,0 +1,2 @@
+|0|collect info job start|success|
+|0|collect info job end|success|resultcode = 0000

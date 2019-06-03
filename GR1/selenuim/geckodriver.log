@@ -1,0 +1,126 @@
+1493998763060	geckodriver	INFO	Listening on 127.0.0.1:1076
+1493998765055	mozprofile::profile	INFO	Using profile path C:\Users\asus\AppData\Local\Temp\rust_mozprofile.EioU3IlBiXRQ
+1493998765059	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493998765074	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1083
+1493998767411	Marionette	INFO	Listening on port 1083
+1493998768693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/deployment-checker@mozilla.org.xpi!/bootstrap.js, line 67: TypeError: evt.target.channel.securityInfo is null
+l
+1493899357057	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+09: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+493522768089&_=1493522768095, line 1: TypeError: jQuery1102004573423099716001_1493522768089 is not a function
+avaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=1439_21095_22746_20927&req=2&csor=4&pwd=pyt&cb=jQuery1102034911592506559685_1493522575824&_=1493522575829, line 1: TypeError: jQuery1102034911592506559685_1493522575824 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1439_21095_22746_20927&req=2&csor=5&pwd=pyth&cb=jQuery1102034911592506559685_1493522575824&_=1493522575830, line 1: TypeError: jQuery1102034911592506559685_1493522575824 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=1439_21095_22746_20927&req=2&csor=6&pwd=pytho&cb=jQuery1102034911592506559685_1493522575824&_=1493522575831, line 1: TypeError: jQuery1102034911592506559685_1493522575824 is not a function
+1493522656778	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+724870375405%26zdquery%3Dactions%2520did%2520not%2520match%2520a%2520known%2520command&ti=python%2Bselenium3%2Bfirefox%E4%B8%AD%E4%BD%BF%E7%94%A8ActionChains%E5%8F%8C%E5%87%BB%E7%AD%89%E9%BC%A0%E6%A0%87%E4%BA%8B%E4%BB%B6%E6%93%8D%E4%BD%9C%E6%8A%A5%E9%94%99%EF%BC%8C%E4%BD%86%E6%98%AF%E5%85%B6%E5%AE%83%E8%B0%B7%E6%AD%8C%E3%80%81ie&ari=2&dbv=0&drs=3&pcs=1349x674&pss=1349x2178&cfv=0&cpl=0&chi=1&cce=true&cec=gbk&tlm=1493419898&prot=2&rw=674&ltu=https%3A%2F%2Fzhidao.baidu.com%2Fquestion%2F267478724870375405.html&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DpUFvEwy-v86ZUvYE4izk54jBvM270ZFYyE5D3lf4S0YSCxEu_psKuAB-ZPUGXIk-e4-Uph8fbYIn2IN7qVz2zFa3EvoEMAGDq2nt-sALthu%26wd%3D%26eqid%3Dbb6b57ea00098221000000055903c767&ecd=1&uc=1366x768&pis=-1x-1&sr=1366x768&tcn=1493419899&qn=e5c62695ac3bd5ca&dpv=e5c62695ac3bd5ca&tt=1493419898008.832.1152.1153, line 83: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+ools/shared/webconsole/network-monitor.js:89:1
+NetworkMonitor.prototype._onRequestHeader@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1150:10
+NetworkMonitor.prototype.observeActivity<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1014:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 466, column: 1
+console.error: 
+  Handler function threw an exception: TypeError: this.docShell is null
+Stack: get_contentWindow@chrome://global/content/bindings/browser.xml:466:1
+get_outerWindowID@chrome://global/content/bindings/browser.xml:435:11
+matchRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:89:1
+NetworkMonitor.prototype._onRequestHeader@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1150:10
+NetworkMonitor.prototype.observeActivity<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1014:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 466, column: 1
+Handler function threw an exception: TypeError: this.docShell is null
+Stack: get_contentWindow@chrome://global/content/bindings/browser.xml:466:1
+get_outerWindowID@chrome://global/content/bindings/browser.xml:435:11
+matchRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:89:1
+NetworkMonitor.prototype._httpResponseExaminer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:846:10
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 466, column: 1
+console.error: 
+  Handler function threw an exception: TypeError: this.docShell is null
+Stack: get_contentWindow@chrome://global/content/bindings/browser.xml:466:1
+get_outerWindowID@chrome://global/content/bindings/browser.xml:435:11
+matchRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:89:1
+NetworkMonitor.prototype._httpResponseExaminer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:846:10
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 466, column: 1
+Handler function threw an exception: TypeError: this.docShell is null
+Stack: get_contentWindow@chrome://global/content/bindings/browser.xml:466:1
+get_outerWindowID@chrome://global/content/bindings/browser.xml:435:11
+matchRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:89:1
+NetworkMonitor.prototype._onRequestHeader@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1150:10
+NetworkMonitor.prototype.observeActivity<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1014:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 466, column: 1
+console.error: 
+  Handler function threw an exception: TypeError: this.docShell is null
+Stack: get_contentWindow@chrome://global/content/bindings/browser.xml:466:1
+get_outerWindowID@chrome://global/content/bindings/browser.xml:435:11
+matchRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:89:1
+NetworkMonitor.prototype._onRequestHeader@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1150:10
+NetworkMonitor.prototype.observeActivity<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1014:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 466, column: 1
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript warning: https://pos.baidu.com/ycym?mpdi=227509&rtbid=1972219&rdid=9223372032564532863&dc=2&di=968278&dri=0&dis=0&dai=3&ps=646x949&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1493418611850&cop=zdclassid%3D1073%26zhidaoqid%3D937174547994038772&ti=selenium%E4%B8%AD%E6%97%A0%E6%B3%95%E5%AE%9A%E4%BD%8D%E5%88%B0%E5%85%83%E7%B4%A0%EF%BC%88%E7%82%B9%E5%87%BB%E5%9B%BE%E7%89%87%E6%93%8D%E4%BD%9C%EF%BC%89_%E7%99%BE%E5%BA%A6%E7%9F%A5%E9%81%93&ari=2&dbv=0&drs=3&pcs=1349x674&pss=1349x1974&cfv=0&cpl=0&chi=1&cce=true&cec=gbk&tlm=1493418612&prot=2&rw=674&ltu=https%3A%2F%2Fzhidao.baidu.com%2Fquestion%2F937174547994038772.html&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DLt_wZ5LcEz_c2R2KMSLfd_SCmTteXUN4c1Mxqp_GOvmKzoa8QnfP7OerXY0PTULWqZOL7XWRhUv4X4_OQMq-5-WN1UQsxUbwmmOWbpjpzEG%26wd%3D%26eqid%3D9b0448f30008be95000000055903c259&ecd=1&uc=1366x768&pis=-1x-1&sr=1366x768&tcn=1493418613&qn=0830670300cca1e3&dpv=0830670300cca1e3&tt=1493418611700.1216.1360.1361, line 83: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/ycym?mpdi=227509&rtbid=1972219&rdid=9223372032564532863&dc=2&di=968278&dri=0&dis=0&dai=3&ps=646x949&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1493418611850&cop=zdclassid%3D1073%26zhidaoqid%3D937174547994038772&ti=selenium%E4%B8%AD%E6%97%A0%E6%B3%95%E5%AE%9A%E4%BD%8D%E5%88%B0%E5%85%83%E7%B4%A0%EF%BC%88%E7%82%B9%E5%87%BB%E5%9B%BE%E7%89%87%E6%93%8D%E4%BD%9C%EF%BC%89_%E7%99%BE%E5%BA%A6%E7%9F%A5%E9%81%93&ari=2&dbv=0&drs=3&pcs=1349x674&pss=1349x1974&cfv=0&cpl=0&chi=1&cce=true&cec=gbk&tlm=1493418612&prot=2&rw=674&ltu=https%3A%2F%2Fzhidao.baidu.com%2Fquestion%2F937174547994038772.html&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DLt_wZ5LcEz_c2R2KMSLfd_SCmTteXUN4c1Mxqp_GOvmKzoa8QnfP7OerXY0PTULWqZOL7XWRhUv4X4_OQMq-5-WN1UQsxUbwmmOWbpjpzEG%26wd%3D%26eqid%3D9b0448f30008be95000000055903c259&ecd=1&uc=1366x768&pis=-1x-1&sr=1366x768&tcn=1493418613&qn=0830670300cca1e3&dpv=0830670300cca1e3&tt=1493418611700.1216.1360.1361, line 83: unreachable code after return statement
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3197: TypeError: this.tabs is undefined
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3197: TypeError: this.tabs is undefined
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3197: TypeError: this.tabs is undefined
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3197: TypeError: this.tabs is undefined
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3197: TypeError: this.tabs is undefined
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3197: TypeError: this.tabs is undefined
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3197: TypeError: this.tabs is undefined
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3197: TypeError: this.tabs is undefined
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3197: TypeError: this.tabs is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x86000F,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x860007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+[Child 7120] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+

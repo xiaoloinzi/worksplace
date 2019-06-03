@@ -1,0 +1,9 @@
+{
+    "alipay_trade_precreate_response": {
+        "code": "10000",
+        "msg": "Success",
+        "out_trade_no": "6823789339978248",
+        "qr_code": "https://qr.alipay.com/bavh4wjlxf12tper3a"
+    },
+    "sign": "ERITJKEIJKJHKKKKKKKHJEREEEEEEEEEEE"
+}
